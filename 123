@@ -1,9 +1,0 @@
-# 使用GitHub
-
-创建仓库时  
-
-- 选择初始化仓库会生成 README 文件：介绍你这个“项目”的文件
-- Add.gitignore:None 作用：
-  - 例子：运行  `*.py`  文件  会产生一个中间文件 `[.pyc]（`该文件跟项目代码无关自动生成，但只要在目录下生成git就会提示该文件没有被跟踪\没有被管理 ），[让该文件不被git管理 则`Add.gitignore:None` 在目录下生成一个`.gitignore:None`文件]()
-  - 可选择所需要的各个语言<img src="../tupian/image-20211130180130873.png" alt="image-20211130180130873" style="zoom:67%;" />
-
